@@ -16,38 +16,70 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>mauve</item>
-        <item>winter_sunset</item>
-        <item>barnsley_silhouette</item>
-        <item>dystopia</item>
-        <item>theicestorm</item>
-        <item>tubetangle</item>
-        <item>acidwashedcid</item>
-        <item>blueice_modcircle</item>
-        <item>frostmaple</item>
-        <item>maplebokeh</item>
-        <item>maplesunblaze</item>
-        <item>sunsetgrass</item>
-        <item>light_bursting_out</item>
-        <item>bladesplusdroplets</item>
-        <item>decay</item>
+        <item>ar_wp01</item>
+        <item>ar_wp02</item>
+        <item>ar_wp03</item>
+        <item>ar_wp04</item>
+        <item>ar_wp05</item>
+        <item>ar_wp06</item>
+        <item>ar_wp07</item>
+        <item>ar_wp08</item>
+        <item>ar_wp09</item>
+        <item>ar_wp10</item>
+        <item>ar_wp11</item>
+        <item>ar_wp12</item>
+        <item>ar_wp13</item>
+        <item>alpine</item>
+        <item>antarctic_sunset</item>
+        <item>black_cat</item>
+        <item>buffalo</item>
+        <item>cave_paradise</item>
+        <item>crows_nest</item>
+        <item>face</item>
+        <item>himalayas_rainbow</item>
+        <item>ice_cavern</item>
+        <item>island</item>
+        <item>laser_night</item>
+        <item>last_chance</item>
+        <item>living_dream</item>
+        <item>northern_lights</item>
+        <item>orta_lake_storm</item>
+        <item>rocky_mountain</item>
+        <item>tenaya_canyon</item>
+        <item>yukon_river_sunset</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Mauve - Matthew Hanley</item>
-        <item>Winter Sunset - Matthew Hanley</item>
-        <item>Barnsley Silhouette - Matthew Hanley</item>
-        <item>Dystopia - Matthew Hanley</item>
-        <item>The Ice Storm - Henry Mason</item>
-        <item>Tangled Up Tubes - Henry Mason</item>
-        <item>Acid-washed Cid - Noelle-Lynn Peregrino</item>
-        <item>Blue Ice w. ModCircle - Henry Mason</item>
-        <item>Frost Maple - Henry Mason</item>
-        <item>Maple Bokeh - Henry Mason</item>
-        <item>Sunblaze Maple - Henry Mason</item>
-        <item>Sunset Grass - Henry Mason</item>
-        <item>Light Bursting Out - Matthew Hanley</item>
-        <item>Blades of Glory - Henry Mason</item>
-        <item>Decay - Henry Mason</item>
+        <item>Alpine Rom 01</item>
+        <item>Alpine Rom 02</item>
+        <item>Alpine Rom 03</item>
+        <item>Alpine Rom 04</item>
+        <item>Alpine Rom 05</item>
+        <item>Alpine Rom 06</item>
+        <item>Alpine Rom 07</item>
+        <item>Alpine Rom 08</item>
+        <item>Alpine Rom 09</item>
+        <item>Alpine Rom 10</item>
+        <item>Alpine Rom 11</item>
+        <item>Alpine Rom 12</item>
+        <item>Alpine Rom 13</item>
+        <item>Alps</item>
+        <item>Antarctic Sunset</item>
+        <item>Black Cat</item>
+        <item>Buffalo Plains</item>
+        <item>Cave Paradise</item>
+        <item>Crows Nest</item>
+        <item>Face</item>
+        <item>Himalayas Rainbow</item>
+        <item>Ice Cavern</item>
+        <item>Island</item>
+        <item>Laser Night</item>
+        <item>Last Chance</item>
+        <item>Living Dream</item>
+        <item>Northern Lights</item>
+        <item>Orta Lake Storm</item>
+        <item>Rocky Mountain</item>
+        <item>Tenaya Canyon</item>
+        <item>Yukon River Sunset</item>
     </string-array>
 </resources>
