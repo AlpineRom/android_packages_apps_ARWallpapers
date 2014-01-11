@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.alpine.ARWallpapers;
+package com.alpinerom.ARWallpapers;
 
 import android.app.Activity;
 import android.app.WallpaperManager;

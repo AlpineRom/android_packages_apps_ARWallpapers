@@ -26,9 +26,6 @@
         <item>ar_wp08</item>
         <item>ar_wp09</item>
         <item>ar_wp10</item>
-        <item>ar_wp11</item>
-        <item>ar_wp12</item>
-        <item>ar_wp13</item>
         <item>alpine</item>
         <item>antarctic_sunset</item>
         <item>black_cat</item>
@@ -50,19 +47,16 @@
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Alpine Rom 01</item>
-        <item>Alpine Rom 02</item>
-        <item>Alpine Rom 03</item>
-        <item>Alpine Rom 04</item>
-        <item>Alpine Rom 05</item>
-        <item>Alpine Rom 06</item>
-        <item>Alpine Rom 07</item>
-        <item>Alpine Rom 08</item>
-        <item>Alpine Rom 09</item>
-        <item>Alpine Rom 10</item>
-        <item>Alpine Rom 11</item>
-        <item>Alpine Rom 12</item>
-        <item>Alpine Rom 13</item>
+        <item>AlpineRom 01</item>
+        <item>AlpineRom 02</item>
+        <item>AlpineRom 03</item>
+        <item>AlpineRom 04</item>
+        <item>AlpineRom 05</item>
+        <item>AlpineRom 06</item>
+        <item>AlpineRom 07</item>
+        <item>AlpineRom 08</item>
+        <item>AlpineRom 09</item>
+        <item>AlpineRom 10</item>
         <item>Alps</item>
         <item>Antarctic Sunset</item>
         <item>Black Cat</item>
