@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">AR Duvar Kağıtları</string>
-  <string name="set_wallpaper">Duvar kağıdını ayarla</string>
-  <string name="no_wallpaper">Duvar kağıdı yok</string>
+  <string name="app_name">Fondos AR</string>
+  <string name="set_wallpaper">Esbillar fondu de pantalla</string>
+  <string name="no_wallpaper">Ensin fondu de pantalla</string>
 </resources>
